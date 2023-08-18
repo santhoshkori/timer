@@ -1,0 +1,89 @@
+.backgroundcontainer {
+  background-image: linear-gradient(#ffffff, #cffcf1);
+  height: 100vh;
+  padding: 40px;
+}
+.heading {
+  text-align: center;
+}
+.imgele {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  width: 420px;
+  height: 370px;
+  padding: 15px;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.whitecontainer {
+  color: #00d9f5;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  border-radius: 50px;
+  font-weight: 900;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.buttonsty {
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+  outline: none;
+}
+.imgsty {
+  height: 50px;
+  width: 50px;
+}
+.texttimer {
+  font-weight: 800;
+}
+.startpausecontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.startresetcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.imgsettimercontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.pauseresetcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: 600;
+}
+.incerdercerecontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.minusbutton {
+  background-color: transparent;
+  border-style: none;
+  font-weight: 800;
+  font-size: 26px;
+}
+.mincontainer {
+  background-image: linear-gradient(#00d9f5, #cffcf1);
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
